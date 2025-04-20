@@ -1,2 +1,0 @@
-pandas==2.2.1
-python-telegram-bot==20.7
